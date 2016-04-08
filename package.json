@@ -1,0 +1,18 @@
+{
+  "name": "minechat",
+  "version": "1.0.0",
+  "description": "Parental spy of Minecraft chatlog to Slack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "minecraft",
+    "chat",
+    "log",
+    "parental",
+    "watch"
+  ],
+  "author": "garagenisse",
+  "license": "ISC"
+}
