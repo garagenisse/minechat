@@ -14,5 +14,10 @@
     "watch"
   ],
   "author": "garagenisse",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "file-tail": "^0.3.0",
+    "node-slack": "0.0.7",
+    "string": "^3.3.1"
+  }
 }
