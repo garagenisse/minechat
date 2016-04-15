@@ -1,8 +1,7 @@
 // analyzer.js
-// var exports = module.exports = {};
 var S = require('string'); 
 
-// My module
+// Analyzer module
 function Analyzer(words) {
   this.words = words.split(" ");
 }

@@ -1,5 +1,9 @@
 {
   // Settings
   "Settings": {
+    // You should really change this one!!!
+    "slackHook": "https://hooks.slack.com/services/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",
+    // Words of interrest
+    "interrestedIn": "afk wtf gg lol garagenisse [du mig] lucraft2005"
   }
 }
